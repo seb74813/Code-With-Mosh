@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.dll
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\ref\Quotes.dll
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.pdb
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.deps.json
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.dll
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\ref\Quotes.dll
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.pdb
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\XamlC.stamp

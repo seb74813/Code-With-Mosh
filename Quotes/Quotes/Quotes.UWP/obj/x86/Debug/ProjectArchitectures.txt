@@ -1,0 +1,1 @@
+C:\Users\sebas\source\repos\Quotes\Quotes\Quotes.UWP\Quotes.UWP.csproj;x86

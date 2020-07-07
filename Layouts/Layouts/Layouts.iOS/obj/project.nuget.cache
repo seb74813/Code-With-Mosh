@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQTcFAqs9HpCRq46/jQ6NozCR3tnPqrKIlxB0efLqPmBA9x1bZCkEbTRVPz2XHCKC4B83u/OgY9cWOOHsOGzVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\Desktop\\Xamarin with Mosh\\Layouts\\Layouts\\Layouts.iOS\\Layouts.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

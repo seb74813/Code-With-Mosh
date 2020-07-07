@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\netstandard2.0\PhotoGallery.deps.json
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\netstandard2.0\PhotoGallery.dll
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.AssemblyInfo.cs
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\netstandard2.0\ref\PhotoGallery.dll
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\bin\Debug\netstandard2.0\PhotoGallery.pdb
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\GalleryPage.xaml.g.cs
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.dll
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\ref\PhotoGallery.dll
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery\obj\Debug\netstandard2.0\PhotoGallery.pdb

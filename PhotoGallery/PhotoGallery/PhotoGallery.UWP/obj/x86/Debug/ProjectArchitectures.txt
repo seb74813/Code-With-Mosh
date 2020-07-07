@@ -1,0 +1,1 @@
+C:\Users\sebas\source\repos\PhotoGallery\PhotoGallery\PhotoGallery.UWP\PhotoGallery.UWP.csproj;x86
