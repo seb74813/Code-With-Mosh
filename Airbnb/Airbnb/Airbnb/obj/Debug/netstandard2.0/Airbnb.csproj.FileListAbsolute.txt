@@ -1,0 +1,14 @@
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.csprojAssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\bin\Debug\netstandard2.0\Airbnb.deps.json
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\bin\Debug\netstandard2.0\Airbnb.dll
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\bin\Debug\netstandard2.0\ref\Airbnb.dll
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\bin\Debug\netstandard2.0\Airbnb.pdb
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.dll
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\ref\Airbnb.dll
+C:\Users\sebas\Documents\GitHub\Xamarin with Mosh\Airbnb\Airbnb\Airbnb\obj\Debug\netstandard2.0\Airbnb.pdb

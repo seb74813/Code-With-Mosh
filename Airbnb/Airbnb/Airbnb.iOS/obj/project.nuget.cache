@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eh0xQGnhjs51Tzo73gYXSXRHAHsSA1h2R3GLjeycvkW6gKGC9j7taCdFPdMch7CVENYKzugfVpHXb3slnBuKMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\Documents\\GitHub\\Xamarin with Mosh\\Airbnb\\Airbnb\\Airbnb.iOS\\Airbnb.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
